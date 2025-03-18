@@ -9,3 +9,4 @@ HuntLearnCo: https://www.youtube.com/feeds/videos.xml?channel_id=UCSGYQv26CXeE8q
 The_Helpful_Hacker: https://www.youtube.com/feeds/videos.xml?channel_id=UCTnOFmMwZIi7jJYS_nAfeyQ  
 \_CryptoCat: https://www.youtube.com/feeds/videos.xml?channel_id=UCEeuul0q7C8Zs5C8rc4REFQ  
 CyberFlow10: https://www.youtube.com/feeds/videos.xml?channel_id=UCUvkPEm38w6pq8w5QYgtPPw
+z3nsh3ll: https://www.youtube.com/feeds/videos.xml?channel_id=UCnWAPVvXxivIo40QpjEMU1w
