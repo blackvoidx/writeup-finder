@@ -6,10 +6,10 @@
 [![GitHub License](https://img.shields.io/github/license/blackvoidx/writeup-finder)](https://github.com/blackvoidx/writeup-finder/blob/master/LICENSE)
 
 <p>
-    <a href="https://skillicons.dev">
+     <a href="https://skillicons.dev">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="48" title="Go">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="github">
-    </a>
+     </a>
 </p>
 
 Join our Writeup Hacking supergroup for curated hacking writeups and resources!
